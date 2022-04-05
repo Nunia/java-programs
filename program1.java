@@ -1,6 +1,8 @@
 public class program1 {
     public static void main (String args[])
     {
-        System.out.println("Hi, I uploaded a repo on GITHUB!");
+        int a =1 , b = 2 , c = 0;
+        c=a=b;
+        System.out.println(c);
     }
 }
